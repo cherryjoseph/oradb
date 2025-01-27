@@ -39,7 +39,7 @@
     }
   },
   "git" : {
-    "protectedBranches" : [],
+    "protectedBranches" : [ "main","master"],
     "defaultBranch" : "main"
   },
   "stage" : {
